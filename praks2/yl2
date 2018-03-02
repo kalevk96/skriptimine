@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+# muljed
+#
+echo -n "Kalev Kubar
+"
+echo -n "IS117
+"
+echo -n "Õpetlik ja vajalik
+"
+echo -n "Siiani mulje OK
+"
+#
+
